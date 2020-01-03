@@ -1,3 +1,14 @@
+---
+layout: post
+title: Economics
+date: 2020-01-03
+Author: Ruimin
+categories: 
+tags: [sample, markdown, notes]
+comments: false
+
+---
+
 #  Markets and Economics
 
 ## Mixed Economy: Public Sector& Private Sector
