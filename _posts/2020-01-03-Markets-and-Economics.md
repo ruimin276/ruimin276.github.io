@@ -112,3 +112,40 @@ comments: false
 >    * **Equilibrium in the balance of payments** - a balanced payment **into** and **out of** the country
 >    * **Low inflation** - high inflation can cause serious problem
 > 3. **Competing objectives** - achieve one objective can make it **more difficult** to achieve another
+
+
+
+# Behavioural Economics
+
+### Behavioural Economics Challenges traditional economic theory
+
+1. In **traditional economic theory**:
+   * Utility Maximiser
+   * Rational
+2. Behavioural challenges assumptions: **not realistic**
+3. Behavioural **doesn't ignore** traditional economic: **make it more relevant to real world**
+
+### Rationality is used to explain actions of Economic Agent
+
+### Consumers Don't act Rationally
+
+1. Lots of **restrictions**:
+   * time is **limited**
+   * Not all information is **available** and information may be **incorrect**
+   * People may not be able to **process and evaluate the vast amount of data** (**computation weakness**)
+2. These **limits** are known as **'boundary rationality'**
+
+### Bias
+
+individuals are influenced by **biases**
+
+>* **Rules of Thumb** - simple useful tools that help individual to decide, e.g. **middle-priced option**
+>* **Anchoring** - placing **too much emphasis** on **one piece of information**
+>* **Availability bias** - judgement are based on the **probability** of events occurring based on how **easy** it is to **remember** such events occurring (e.g. **overestimation**)
+>* **Social norms** - decision base on **social group**
+>* 
+>
+>
+
+#### Fairness can influence decision
+
