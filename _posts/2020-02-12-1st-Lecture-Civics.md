@@ -46,3 +46,15 @@ collect lecture notes
 - GP: Olivia
 - PW: Chien Hao
 - PE: Yuxuan
+
+
+
+### Wipe-down routine
+
+1. Soap Up
+2. Wipe
+3. Throw
+4. Wash
+
+
+
